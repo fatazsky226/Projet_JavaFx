@@ -1,3 +1,6 @@
+// Code d'enregistrement d'un livre 
+// Bouton de soumission et bouton pour ouvrir un autre formulaire
+
 package com.example;
 
 import javafx.application.Application;

@@ -1,3 +1,5 @@
+// Enregistrement d'un membre avec son nom et son mail
+
 package com.example;
 
 import javafx.scene.Scene;
